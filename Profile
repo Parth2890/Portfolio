@@ -1,10 +1,12 @@
 Parth Varsani 
 📞+91 99790-97790 |       Parth Varsani  | ✉️ parthj.varsani29@gmail.com  
+
 EDUCATION:-                                                                                                                                                  
 Birla Vishwakarma Mahavidhyalaya Bachelor of Technology July 2018 – June 2022 
 Major: Electronics Engineering (CGPA - 7.29)
 • Relevant coursework: Analog & Digital Circuits, Microcontroller 8051 Programming, C Programming 
 Language, Digital logic design
+
 SKILLS/INTERESTS:-5
 Skills:  C (Programming Language), Linux BSP, Yocto, WiFi, Linux System Programming.
 Tools: WireShark, Git, GDB, Valgrind, GCC, host_apd, wpa_supplicant, 
@@ -15,6 +17,7 @@ PROFESSIONAL EXPERIENCE:-
 Volansys Technologies, Ahmedabad, India Associate Engineer Dec 2022 - Present
  • During this period I enhanced the Linux board support package(U-boot bootloader, Linux Kernel System Programming, Device Driver Work Flow) And the build system like Yocto.
 • Along with the project execution sharpened my bare-metal skills working on nrf52840 and its peripherals.
+
   
 NXP_CAS:-
         • My Role is to solve Customer queries related to porting of external sensors, Displays, and WiFi chipset 
@@ -26,12 +29,14 @@ NXP_CAS:-
 Korelock:-
 • In My commencing to the project I have acquired knowledge of Barematel & freeRTOS Programming and their requirement on the nRF52840 Board.
 
+
 Volansys Technologies, Ahmedabad, India Trainee Engineer May 2022 - Nov 2022 
       • I acquired in-depth knowledge about the 802.11 Protocol(Connection establishment, Security, Data Path, Data Flow) in addition to that I have gained knowledge about the OSI Model.
 NXP_SAE:-
 • I worked on the WiFi driver and debugged various issues regarding connection establishment, packet throughput, and security with debug tools like WireShark, GDB, Valgrind, etc.
 • My Role was to Reproduce the issue on the local setup using the Customer environment, Capture the logs, Analyze the logs, Debug them, and Fix them by applying various patches in C Prog. Language & provided a solution.
 • I Worked on the NXP Wireless chipsets 88xx, 90xx, x86, i.MX Boards.
+
 
 
 
